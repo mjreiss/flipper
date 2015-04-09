@@ -6,3 +6,5 @@ Things you may want to cover:
 
 * Rails and stuff
 * Flipper
+
+live: {demo}[flipperapp.heroku.com]
