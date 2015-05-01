@@ -5,7 +5,6 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-require 'ffaker'
 
 User.create!( name:  "Mike Reiss",
               email: "mike@example.com",
