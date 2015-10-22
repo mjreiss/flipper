@@ -6,5 +6,7 @@ Things you may want to cover:
 
 * Rails and stuff
 * Flipper
+* Neat!
+* Let's do this!
 
 live: {demo}[flipperapp.heroku.com]
